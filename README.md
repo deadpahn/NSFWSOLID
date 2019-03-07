@@ -1,5 +1,5 @@
 # NSFWSOLID
-Solid principles explained in a very crass NSFW manner.
+Solid principles explained in a very crass NSFW manner. I am not the author of this, I got it from a wizard named Abi who said it is MIT LICENSE.
 
 
 # SOLID principles - cheatsheet with examples
